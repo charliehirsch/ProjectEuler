@@ -1,5 +1,5 @@
 public class PracticeOne {
   public static void main(String[] args){
-    string init = "hello";
+    String init = "hello";
   }
 }
