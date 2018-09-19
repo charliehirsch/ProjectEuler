@@ -7,8 +7,8 @@ public class Commify{
   }
 
   public static String commify(int num){
-      String toReturn = Integer.toString(num);
-      return toReturn;
+      String numberAsString = String.format("%,d", num);
+      return numberAsString;
   }
 
 }
