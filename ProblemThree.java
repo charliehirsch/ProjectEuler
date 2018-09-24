@@ -1,11 +1,7 @@
 public class ProblemThree{
   public static void main(String[] args){
 
-    boolean toPrint = (isPrime(486847));
-    System.out.println(toPrint);
-
    double largestPrimeFactor = findLargestPrimeFactor(600851475143.0);
-    
 
     System.out.println("\n" + "Problem Three:");
     System.out.println("What is the largest prime factor of the number 600851475143?");
